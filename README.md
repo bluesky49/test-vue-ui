@@ -26,3 +26,6 @@ yarn run dev
 ```sh
 yarn run build
 ```
+
+### todo lists
+- form validation
