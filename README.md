@@ -6,12 +6,15 @@ This project was built with Vue3 and mongodb. Used Vuex for store management and
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Project Setup and run
 
 ```sh
-yarn install
+yarn 
 ```
 
+```sh
+yarn dev
+```
 ### Compile and Hot-Reload for Development
 
 ```sh
